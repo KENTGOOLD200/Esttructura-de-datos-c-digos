@@ -52,9 +52,9 @@ namespace FigurasGeometricas
         }
     }
 
-    class Program
+    public static class Programa
     {
-        static void Main(string[] args)
+        public static void Run()
         {
             // Crear una variable para la instancia de Circulo
             Circulo miCirculo = new Circulo(5.0);
