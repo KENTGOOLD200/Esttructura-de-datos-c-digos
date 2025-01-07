@@ -61,7 +61,7 @@ public partial class APPprograma{
         string[] especialidades = {"Dermatología", "Odontología", "Neurología", "Pediatría"};
 
         while (true){
-            Console.WriteLine("\nMenu:\n1. Agregar paciente:\n2. Mostrar turnos:\n3. Salir:");
+            Console.WriteLine("\n===============================================\nGestiòn de turnos (Clínica Privada 'San Pedro')\n===============================================\n\nSeleccione el trámite que desea realizar:\n1. Agregar paciente:\n2. Mostrar turnos:\n3. Salir:");
             Console.Write("Selecciona una opción: ");
             var opcion = Console.ReadLine();
 
