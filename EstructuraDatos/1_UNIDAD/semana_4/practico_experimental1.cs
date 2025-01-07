@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 // Definir record representando al paciente
-public record Paciente(string Nombre, int Edad, String Identificación);
+public record Paciente(string Nombre, int Edad, string Identificación);
 
 // Definir un Struct para representar un Turno.
 public struct Turno {
@@ -104,5 +104,13 @@ public partial class APPprograma{
                 Console.WriteLine("\nOpción no valida, por favor, elige unas de las opciones mostradas en pantalla.");
             }
         }
+    }
+}
+
+
+// Ejecutar programa. Normalmente lo suelo hacer desde la aplicaciòn de consola
+public class Correr(){
+    public static void Correr_programa(){
+        APPprograma.Run();
     }
 }
