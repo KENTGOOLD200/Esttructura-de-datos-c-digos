@@ -110,7 +110,7 @@ public partial class APPprograma{
 
 // Ejecutar programa. Normalmente lo suelo hacer desde la aplicaciòn de consola
 public class Correr(){
-    public static void Correr_programa(){
+    public static void Main(){
         APPprograma.Run();
     }
 }
