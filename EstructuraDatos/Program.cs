@@ -27,7 +27,8 @@ while (true) // Bucle para que se repitan las opciones constantemente
             APPprograma.Run();
             break;
         case "5":
-            titulo("Ha seleccionado la Semana 5.\n¡Estará listo próximamente!."); // Agrega título usando la función título
+            titulo("Ha seleccionado la Semana 5 'Listas enlazadas'."); // Agrega título usando la función título
+            Menusemana5.Run();
             break;
         case "6":
             titulo("Ha seleccionado la Semana 6.\n¡Estará listo próximamente!."); // Agrega título usando la función título
