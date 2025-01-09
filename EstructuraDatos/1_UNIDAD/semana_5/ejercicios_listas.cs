@@ -174,8 +174,8 @@ public static class Menusemana5{
 }
 
 // Ejecutar el menú y todos los procesos
-class Imprimir{
-    static void Main(){
+public class Imprimir{
+    public static void Main(){
         Menusemana5.Run();
     }
 } 
