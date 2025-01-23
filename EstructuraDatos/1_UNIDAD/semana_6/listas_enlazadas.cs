@@ -28,6 +28,7 @@ namespace ejercicioS6_1
 
              // Comparar las listas y mostrar resultados
              string resultadofinal = Comparacion(lista1, lista2);
+             Console.WriteLine(resultadofinal);
         }
        static List<int> Cargardatos(int tamaño){
         List<int> lista = new List<int>();
