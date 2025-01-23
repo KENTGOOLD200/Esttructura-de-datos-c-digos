@@ -8,7 +8,7 @@
 //verificación. El programa debe mostrar:verificación. El programa debe mostrar:
 //a.a. Si las listas sonSi las listas son iguales en tamaño y eniguales en tamaño y en contenido.contenido.
 //b.b. Si las listas sonSi las listas son iguales en tamaño pero no eniguales en tamaño pero no en contenido.contenido.
-//c.c. No tienen el mismo tamaño niNo tienen el mismo tamaño ni contenido.contenido.
+//c.c. No tienen el mismo tamaño niNo tienen el mismo tamaño ni contenido.contenido..
 using System.ComponentModel;
 
 namespace ejercicioS6_1

@@ -71,7 +71,7 @@ while (true) // Bucle para que se repitan las opciones constantemente
             break;
     }
 
-    pie_pagina(); // Usa la funciòn para agregar pié de página
+    pie_pagina(); // Usa la funciòn para agregar pié de página.
 } 
 static void pie_pagina(){ // Función para agregar pié de página
     Console.WriteLine("\n-----------------------\nCreado por @KENTGOOL200\n\n");
