@@ -1,4 +1,5 @@
-﻿using FigurasGeometricas;
+﻿using ejercicioS6_1.ejercicioS6_2;
+using FigurasGeometricas;
 
 cabecera(); // Usa la función para agregar cabecera
 while (true) // Bucle para que se repitan las opciones constantemente
@@ -31,7 +32,8 @@ while (true) // Bucle para que se repitan las opciones constantemente
             Menusemana5.Run();
             break;
         case "6":
-            titulo("Ha seleccionado la Semana 6.\n¡Estará listo próximamente!."); // Agrega título usando la función título
+            titulo("Ha seleccionado la Semana 6 'Listas enlazadas'."); // Agrega título usando la función título
+            Menusemana6.Run();
             break;
         case "7":
             titulo("Ha seleccionado la Semana 7.\n¡Estará listo próximamente!."); // Agrega título usando la función título
