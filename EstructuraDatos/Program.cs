@@ -47,7 +47,8 @@ while (true) // Bucle para que se repitan las opciones constantemente
             titulo("Ha seleccionado la Semana 9.\n¡Estará listo próximamente!."); // Agrega título usando la función título
             break;
         case "10":
-            titulo("Ha seleccionado la Semana 10.\n¡Estará listo próximamente!."); // Agrega título usando la función título
+            titulo("Ha seleccionado la Semana 10 'Teoría de conjuntos'"); // Agrega título usando la función título
+            vacuna_ej.Ejecutar.ejercicios();
             break;
         case "11":
             titulo("Ha seleccionado la Semana 11.\n¡Estará listo próximamente!."); // Agrega título usando la función título
