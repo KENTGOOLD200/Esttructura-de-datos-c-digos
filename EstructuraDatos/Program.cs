@@ -51,7 +51,8 @@ while (true) // Bucle para que se repitan las opciones constantemente
             vacuna_ej.Ejecutar.ejercicios();
             break;
         case "11":
-            titulo("Ha seleccionado la Semana 11.\n¡Estará listo próximamente!."); // Agrega título usando la función título
+            titulo("Ha seleccionado la Semana 11 'Mapas y diccionarios'."); // Agrega título usando la función título
+            Diccionario.MostrarMenu();
             break;
         case "12":
             titulo("Ha seleccionado la Semana 12.\n¡Estará listo próximamente!."); // Agrega título usando la función título
